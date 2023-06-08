@@ -16,8 +16,11 @@
             //HarmonicNumber hn = new HarmonicNumber();
             //hn.harmonicNumber();
 
-            PrimeFactors pr = new PrimeFactors();
-            pr.primeFactors();
+            //PrimeFactors pr = new PrimeFactors();
+            //pr.primeFactors();
+
+            QuotientAndRemainder qr = new QuotientAndRemainder();
+            qr.quotientAndRemainder();
         }
     }
 }
