@@ -22,8 +22,11 @@
             //QuotientAndRemainder qr = new QuotientAndRemainder();
             //qr.quotientAndRemainder();
 
-            SwapTwoNumbers sn = new SwapTwoNumbers();
-            sn.swapTwoNumbers();
+            //SwapTwoNumbers sn = new SwapTwoNumbers();
+            //sn.swapTwoNumbers();
+
+            EvenOrOdd eo = new EvenOrOdd();
+            eo.evenOrOdd();
         }
     }
 }
