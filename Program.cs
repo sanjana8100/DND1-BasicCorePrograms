@@ -28,8 +28,11 @@
             //EvenOrOdd eo = new EvenOrOdd();
             //eo.evenOrOdd();
 
-            VowelOrConsonant vc = new VowelOrConsonant();
-            vc.vowelOrConsonant();
+            //VowelOrConsonant vc = new VowelOrConsonant();
+            //vc.vowelOrConsonant();
+
+            LargestOfThree lt = new LargestOfThree();
+            lt.largestOfThree();
         }
     }
 }
