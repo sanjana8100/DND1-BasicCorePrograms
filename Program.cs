@@ -10,8 +10,11 @@
             //LeapYear ly = new LeapYear();
             //ly.leapYear();
 
-            PowerOfTwo pt = new PowerOfTwo();
-            pt.powerOfTwo();
+            //PowerOfTwo pt = new PowerOfTwo();
+            //pt.powerOfTwo();
+
+            HarmonicNumber hn = new HarmonicNumber();
+            hn.harmonicNumber();
         }
     }
 }
