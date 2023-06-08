@@ -25,8 +25,11 @@
             //SwapTwoNumbers sn = new SwapTwoNumbers();
             //sn.swapTwoNumbers();
 
-            EvenOrOdd eo = new EvenOrOdd();
-            eo.evenOrOdd();
+            //EvenOrOdd eo = new EvenOrOdd();
+            //eo.evenOrOdd();
+
+            VowelOrConsonant vc = new VowelOrConsonant();
+            vc.vowelOrConsonant();
         }
     }
 }
