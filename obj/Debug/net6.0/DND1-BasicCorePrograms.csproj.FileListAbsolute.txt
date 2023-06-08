@@ -1,0 +1,15 @@
+C:\Users\INS 5570\source\repos\DND1-BasicCorePrograms\DND1-BasicCorePrograms\bin\Debug\net6.0\DND1-BasicCorePrograms.exe
+C:\Users\INS 5570\source\repos\DND1-BasicCorePrograms\DND1-BasicCorePrograms\bin\Debug\net6.0\DND1-BasicCorePrograms.deps.json
+C:\Users\INS 5570\source\repos\DND1-BasicCorePrograms\DND1-BasicCorePrograms\bin\Debug\net6.0\DND1-BasicCorePrograms.runtimeconfig.json
+C:\Users\INS 5570\source\repos\DND1-BasicCorePrograms\DND1-BasicCorePrograms\bin\Debug\net6.0\DND1-BasicCorePrograms.dll
+C:\Users\INS 5570\source\repos\DND1-BasicCorePrograms\DND1-BasicCorePrograms\bin\Debug\net6.0\DND1-BasicCorePrograms.pdb
+C:\Users\INS 5570\source\repos\DND1-BasicCorePrograms\DND1-BasicCorePrograms\obj\Debug\net6.0\DND1-BasicCorePrograms.csproj.AssemblyReference.cache
+C:\Users\INS 5570\source\repos\DND1-BasicCorePrograms\DND1-BasicCorePrograms\obj\Debug\net6.0\DND1-BasicCorePrograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INS 5570\source\repos\DND1-BasicCorePrograms\DND1-BasicCorePrograms\obj\Debug\net6.0\DND1-BasicCorePrograms.AssemblyInfoInputs.cache
+C:\Users\INS 5570\source\repos\DND1-BasicCorePrograms\DND1-BasicCorePrograms\obj\Debug\net6.0\DND1-BasicCorePrograms.AssemblyInfo.cs
+C:\Users\INS 5570\source\repos\DND1-BasicCorePrograms\DND1-BasicCorePrograms\obj\Debug\net6.0\DND1-BasicCorePrograms.csproj.CoreCompileInputs.cache
+C:\Users\INS 5570\source\repos\DND1-BasicCorePrograms\DND1-BasicCorePrograms\obj\Debug\net6.0\DND1-BasicCorePrograms.dll
+C:\Users\INS 5570\source\repos\DND1-BasicCorePrograms\DND1-BasicCorePrograms\obj\Debug\net6.0\refint\DND1-BasicCorePrograms.dll
+C:\Users\INS 5570\source\repos\DND1-BasicCorePrograms\DND1-BasicCorePrograms\obj\Debug\net6.0\DND1-BasicCorePrograms.pdb
+C:\Users\INS 5570\source\repos\DND1-BasicCorePrograms\DND1-BasicCorePrograms\obj\Debug\net6.0\DND1-BasicCorePrograms.genruntimeconfig.cache
+C:\Users\INS 5570\source\repos\DND1-BasicCorePrograms\DND1-BasicCorePrograms\obj\Debug\net6.0\ref\DND1-BasicCorePrograms.dll
