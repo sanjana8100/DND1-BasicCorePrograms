@@ -13,8 +13,11 @@
             //PowerOfTwo pt = new PowerOfTwo();
             //pt.powerOfTwo();
 
-            HarmonicNumber hn = new HarmonicNumber();
-            hn.harmonicNumber();
+            //HarmonicNumber hn = new HarmonicNumber();
+            //hn.harmonicNumber();
+
+            PrimeFactors pr = new PrimeFactors();
+            pr.primeFactors();
         }
     }
 }
