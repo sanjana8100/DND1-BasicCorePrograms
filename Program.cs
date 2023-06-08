@@ -7,8 +7,11 @@
             //FlipCoin fc = new FlipCoin();
             //fc.flipCoin();
 
-            LeapYear ly = new LeapYear();
-            ly.leapYear();
+            //LeapYear ly = new LeapYear();
+            //ly.leapYear();
+
+            PowerOfTwo pt = new PowerOfTwo();
+            pt.powerOfTwo();
         }
     }
 }
