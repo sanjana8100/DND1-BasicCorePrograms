@@ -19,8 +19,11 @@
             //PrimeFactors pr = new PrimeFactors();
             //pr.primeFactors();
 
-            QuotientAndRemainder qr = new QuotientAndRemainder();
-            qr.quotientAndRemainder();
+            //QuotientAndRemainder qr = new QuotientAndRemainder();
+            //qr.quotientAndRemainder();
+
+            SwapTwoNumbers sn = new SwapTwoNumbers();
+            sn.swapTwoNumbers();
         }
     }
 }
