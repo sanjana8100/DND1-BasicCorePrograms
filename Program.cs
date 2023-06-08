@@ -4,8 +4,11 @@
     {
         static void Main(string[] args)
         {
-            FlipCoin fc = new FlipCoin();
-            fc.flipCoin();
+            //FlipCoin fc = new FlipCoin();
+            //fc.flipCoin();
+
+            LeapYear ly = new LeapYear();
+            ly.leapYear();
         }
     }
 }
